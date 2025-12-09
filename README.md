@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de  Sistemas`**
 
-Me chamo Pedro Souza, tenho 17 anos e sou natural de São PAULO. Concluí o ensino médio no SESI, com o curso técnico de Desenvolvimento de Sisitemas no Instito SENAI Jandira. Atualmente, vou iniciar minha faculdade na USJT (Univesidade São Judas) no curso de Engenharia de Software. Sou apaixonada por tecnologia, e pretendo ter uma bela carreira profissional.
+Me chamo Pedro Souza, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio no SESI, com o curso técnico de Desenvolvimento de Sisitemas no Instito SENAI Jandira. Atualmente, vou iniciar minha faculdade na USJT (Univesidade São Judas) no curso de Engenharia de Software. Sou apaixonada por tecnologia, e pretendo ter uma bela carreira profissional.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
@@ -107,22 +107,6 @@ Me chamo Pedro Souza, tenho 17 anos e sou natural de São PAULO. Concluí o ensi
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -149,14 +133,14 @@ Me chamo Pedro Souza, tenho 17 anos e sou natural de São PAULO. Concluí o ensi
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=SouzaPDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaPDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
